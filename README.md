@@ -79,11 +79,11 @@ I aim to combine my **development**, **automation**, and **AI/ML** skills to cre
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KK-05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushal-05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KK-05&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushal-05&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
