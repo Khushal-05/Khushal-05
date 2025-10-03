@@ -45,7 +45,7 @@ I also share my passion for gaming on my **YouTube channel**, where I play title
 ### ⚙️ Featured Projects
 Here are a few things I’ve worked on recently:
 
-- 🚗 [**Car Portfolio Website**](#) — a creative web project built with HTML, CSS, JS  
+- 🚗 <!-- [**Car Portfolio Website**](#) — a creative web project built with HTML, CSS, JS  -->
 - 🤖 **n8n Automation Workflows** — smart flows integrating APIs & ngrok tunnels  
 - 💬 **Telegram AI Bot (In Progress)** — automating responses with GPT models  
 - 🧠 **AI Study Trackers** — for AWS MLA-C01 exam prep using Notion & Quizlet  
