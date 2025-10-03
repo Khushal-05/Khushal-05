@@ -22,7 +22,7 @@ I also share my passion for gaming on my **YouTube channel**, where I play title
 - 🌐 **Web Development** — from design to deployment  
 - ⚙️ **Automation & APIs** — building smart workflows with **n8n**, **Ngrok**, and **Google APIs**  
 - 🤖 **AI / ML Foundations** — learning models and experimenting with **AWS Machine Learning**  
-- <!--🎮 **Game Development** — creating projects that blend logic with creativity -->  
+<!-- - 🎮 **Game Development** — creating projects that blend logic with creativity -->  
 
 ---
 
