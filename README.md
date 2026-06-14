@@ -29,7 +29,7 @@ I also share my passion for gaming on my **YouTube channel**, where I play title
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,tailwind,bootstrap,php,mysql,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,tensorflow,sklearn,mysql,git,github,aws" />
 </p>
 
 ---
